@@ -10,7 +10,7 @@
     <p style="font-size: 14px; margin: 1rem 1rem 0.5rem 0">Aqui você encontrará diversos códigos e projetos dos cursos que estou fazendo relacionados ao mundo da programação, além de breves resumos sobre o conteúdo abordado em cada um eles, com referências e tópicos!</p>
     <p style="font-size: 14px; margin: 1rem 1rem 0.5rem 0">Fora isso, caso tenha interesse em conferir meu <strong>Github de Projetos Pessoais</strong>, <a href="https://github.com/cesar-borba" target="_blank">clique aqui! ⭐</a></p>
   </div>
-  <img width="50%" src="assets/library.png" style="display: block; margin-left: auto;margin-right: 10px;">
+  <img width="50%" src="img/library.png" style="display: block; margin-left: auto;margin-right: 10px;">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=fac228&section=footer"/>
