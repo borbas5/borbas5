@@ -2,12 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=FFB800&vCenter=true&width=1000&height=44&lines=Seja+bem+vindo+ao+meu+Github+de+cursos!)](https://git.io/typing-svg)
 
+<hr>
+
 <div style="align-items: flex-start;">
   <div>
     <p style="font-size: 20px; margin: 1rem 0 0.5rem 0">Sou o César Borba! 😁 | Desenvolvedor Web 💻</p>
     <p style="font-size: 14px; margin: 1rem 1rem 0.5rem 0">Aqui você encontrará diversos códigos e projetos dos cursos que estou fazendo relacionados ao mundo da programação, além de breves resumos sobre o conteúdo abordado em cada um eles, com referências e tópicos!</p>
     <p style="font-size: 14px; margin: 1rem 1rem 0.5rem 0">Fora isso, caso tenha interesse em conferir meu <strong>Github de Projetos Pessoais</strong>, <a href="https://github.com/cesar-borba" target="_blank">clique aqui! ⭐</a></p>
   </div>
+
+  <hr>
   <img width="100%" src="img/library.png" style="display: block; margin-left: auto;margin-right: 10px;">
 </div>
 
